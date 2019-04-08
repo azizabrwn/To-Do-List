@@ -1,0 +1,31 @@
+  body {
+      text-align: center;
+      background-image: url("images/morning-mist3.jpg");
+
+
+  }
+
+  .wrapper {
+      display: inline-block;
+  }
+
+  .test {
+      text-decoration: line-through;
+  }
+
+  #clock {
+      font-size: 70px;
+      border: white 5px solid;
+      padding: 12px 0 12px 0;
+  }
+
+  input {
+      width: 50%;
+      padding: 12px 12px;
+      margin: 0 0 12px 0;
+      border-radius: 4px;
+  }
+
+  h2 {
+      font-family: 'Noticia Text', serif;
+  }
